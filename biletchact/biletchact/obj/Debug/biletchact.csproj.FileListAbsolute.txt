@@ -1,0 +1,12 @@
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\bin\Debug\biletchact.exe.config
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\bin\Debug\biletchact.exe
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\bin\Debug\biletchact.pdb
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\obj\Debug\biletchact.csprojResolveAssemblyReference.cache
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\obj\Debug\biletchact.exe
+c:\users\виталя\documents\visual studio 2013\Projects\biletchact\biletchact\obj\Debug\biletchact.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\bin\Debug\biletchact.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\obj\Debug\biletchact.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\obj\Debug\biletchact.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\bin\Debug\biletchact.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\bin\Debug\biletchact.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\biletchact\biletchact\obj\Debug\biletchact.csprojResolveAssemblyReference.cache
