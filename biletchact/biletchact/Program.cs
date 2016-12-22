@@ -10,7 +10,8 @@ namespace biletchact
     {
         static void Main(string[] args)
         {
-            int count = 0;
+            //Виталий, кто ж .exe коммитит? О_о
+            int count;
             int[] mass = new int[6];
             int del;
             for (int i = 1001; i <= 999999; i++)
